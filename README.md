@@ -1,160 +1,27 @@
-<div align="center">
+# 💫 About Me:
+Hi, I’m Dare 👋<br>I’m a developer + product builder who loves turning ideas into real working systems.<br><br>I build projects that mix AI, backend engineering, and real-world problem solving — from fitness tracking apps to platforms that help people discover opportunities like hackathons.<br><br>🚀 What I’m working on<br><br>FitTracker 🏋️‍♂️ — a fitness tracker app with exercise logging + AI meal recommendations<br><br>Hackathon Hub (HackMap India) 🌍 — a platform to explore hackathons and opportunities<br><br>LLM-based document intelligence 📄 — extracting structured insights from PDFs, emails, and unstructured text<br><br>Exploring system-level development (I’m learning how operating systems work and how to build one)<br><br>🧠 What I’m good at<br><br>Building full-stack apps with clean workflows<br><br>Researching deeply before executing (user behavior + product strategy)<br><br>Creating systems that automate boring tasks using AI<br><br>Writing structured solutions for DSA / LeetCode-style problems (Java)<br><br>🛠 Tech I use<br><br>Java • Spring Boot • MySQL • Supabase • LLMs • APIs • Markdown pipelines • Product thinking<br><br>⚡ My mindset<br><br>I don’t just code — I build things people actually use, improve fast, and ship consistently.
 
-# 🦇 ISHAAN RAI 🦇
-### *The Dark Knight of Code*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Scalable+Solutions+Architect;Building+The+Future+%F0%9F%A6%87" alt="Typing SVG" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishaan-rai/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ishaan_rai09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishaanrai18@gmail.com) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-rai/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ishaan_rai09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://ishaan-rai09.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ixhaaan_09/)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat-square&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ishaan-Rai09&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ishaan-Rai09&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-Rai09&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ishaan-Rai09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌃 *"It's Not Who I Am Underneath, But What I Code That Defines Me"*
-
-```ascii
-    ___
-   /   \     I don't just build applications,
-  | O O |    I architect solutions that make a difference.
-   \___/     
-    |||      Gotham needs heroes. The world needs developers
-   |||||     who can solve real problems at scale.
-```
-
-### 🦇 About The Developer Behind The Mask
-
-I'm **Ishaan Rai**, a Full Stack Developer on a mission to create **scalable solutions** that solve real-world problems. Like Batman, I believe in preparation, innovation, and making an impact when it matters most.
-
-- 🌍 **Mission:** Building technology that makes the world better
-- 🎯 **Currently Training:** Mastering DSA in Python & Java | Diving deep into Machine Learning
-- 🚀 **Philosophy:** Every line of code is a chance to make a difference
-- 🗣️ **Extrovert by Nature:** Love meeting new people, traveling, and sharing ideas
-- ⚡ **Fun Fact:** Just like Batman has his gadgets, I have my tech stack
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ishaan-Rai09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ishaan-Rai09&icon=10&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ The Batcave Arsenal
-
-<div align="center">
-
-### **Core Technologies**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### **Frontend Arsenal**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend Fortress**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **AI/ML & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### **DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Pinata](https://img.shields.io/badge/Pinata-350462?style=for-the-badge&logo=ipfs&logoColor=white)
-
-</div>
-
----
-
-## 📊 Bat-Signal Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaan-Rai09&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan-Rai09&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishaan-Rai09&theme=gotham&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
-
-</div>
-
----
-
-## 🎯 Current Missions
-
-```python
-class IshaanRai:
-    def __init__(self):
-        self.role = "Full Stack Developer"
-        self.location = "Gotham City 🦇"
-        self.current_focus = [
-            "Mastering Data Structures & Algorithms",
-            "Exploring Machine Learning",
-            "Building Scalable Solutions"
-        ]
-        self.specialties = [
-            "MERN Stack Development",
-            "AI/ML Integration",
-            "Cloud Architecture",
-            "System Design"
-        ]
-    
-    def say_hello(self):
-        print("I'm vengeance. I'm the night. I'm a DEVELOPER!")
-    
-    def solve_problems(self):
-        return "One line of code at a time 🦇"
-```
-
----
-
-## 🌟 Why I Code
-
-> *"A hero can be anyone. Even a developer doing something as simple and reassuring as writing clean code to let the world know that it doesn't have to be afraid."*
-
-I believe in:
-- ✨ **Creating Impact** - Building solutions that matter
-- 🚀 **Continuous Learning** - Always evolving, always improving
-- 🤝 **Collaboration** - Great things are built together
-- 🌍 **Global Perspective** - Love connecting with people worldwide
-- 💡 **Innovation** - Pushing boundaries with every project
-
----
-
-## 🦇 The Legend Continues...
-
-<div align="center">
-
-### *"The Night Is Darkest Just Before The Deploy"*
-
-**Every commit brings us closer to a better tomorrow.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=yellow&style=flat-square&label=Bat-Signal+Activated)
-
----
-
-### 📬 Send a Signal
-
-Got an exciting project? Want to collaborate? Just want to chat about tech, travel, or Batman?
-
-**Let's connect and build something legendary together!** 🦇
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ishaan-Rai09&color=yellow&style=flat-square&label=Bat-Signal+Activated)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=I%20Am%20Batman&fontSize=40&fontColor=FFD700&animation=twinkling" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
