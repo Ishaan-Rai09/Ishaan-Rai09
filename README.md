@@ -24,7 +24,7 @@
 ## 🎮 &nbsp; Play Space Defender
 
 > Shoot down every invader before they reach you.
-> **[→ Open the game](https://ishaan-rai09.github.io/Ishaan-Rai09/)** *(host `preview.html` via GitHub Pages)*
+> **[→ Open the game](https://ishaan-rai09.github.io/Ishaan-Rai09/preview.html)** *(host `preview.html` via GitHub Pages)*
 
 ---
 
