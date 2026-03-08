@@ -24,7 +24,7 @@
 ## 🎮 &nbsp; Play Space Defender
 
 > Shoot down every invader before they reach you.
-> **[→ Open the game](https://ishaan-rai09.github.io/Ishaan-Rai09/preview.html)** *(host `preview.html` via GitHub Pages)*
+> **[→ Open the game](https://ishaan-rai09.github.io/Ishaan-Rai09/)** *(host `preview.html` via GitHub Pages)*
 
 ---
 
@@ -76,12 +76,13 @@ const ishaan = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ishaan-Rai09&show_icons=true&hide_border=true&bg_color=0d1320&title_color=00d4ff&icon_color=00d4ff&text_color=eef2ff&rank_icon=github"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan-Rai09&hide_border=true&background=0d1320&stroke=00d4ff&ring=00d4ff&fire=ff4d6d&currStreakLabel=00d4ff&sideLabels=718096&dates=4a5568"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishaan-Rai09&show_icons=true&hide_border=true&bg_color=0d1320&title_color=00d4ff&icon_color=00d4ff&text_color=eef2ff&rank_icon=github&cache_seconds=1800"/>
+&nbsp;
+<img height="165" src="https://streak-stats.demolab.com/?user=Ishaan-Rai09&hide_border=true&background=0d1320&stroke=00d4ff&ring=00d4ff&fire=ff4d6d&currStreakLabel=00d4ff&sideLabels=718096&dates=4a5568&currStreakNum=eef2ff&sideNums=eef2ff"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan-Rai09&bg_color=0d1320&color=00d4ff&line=00d4ff&point=eef2ff&area=true&area_color=00d4ff20&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan-Rai09&bg_color=0d1320&color=00d4ff&line=00d4ff&point=eef2ff&area=true&area_color=00d4ff20&hide_border=true&custom_title=Contribution+Graph" width="100%"/>
 
 </div>
 
