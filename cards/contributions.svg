@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="145" viewBox="0 0 960 145">
+    <style>
+      .enter { opacity:0; animation: rise .75s cubic-bezier(.2,.8,.2,1) 0.6s forwards; }
+      .fade { opacity:0; animation: fade .8s ease 0.8s forwards; }
+      .shine { animation: sweep 5s ease-in-out 2.6s infinite; }
+      @keyframes rise { from { opacity:0; transform:translateY(18px) } to { opacity:1; transform:translateY(0) } }
+      @keyframes fade { to { opacity:1 } }
+      @keyframes sweep { 0%,65% { transform:translateX(-180px) } 85%,100% { transform:translateX(260px) } }
+      @media (prefers-reduced-motion:reduce) { * { animation:none!important; opacity:1!important; transform:none!important } }
+    </style><rect x="1" y="1" width="958" height="143" rx="22" fill="#fffdf8" stroke="#dedbd3"/><text x="32" y="37" fill="#20252b" font-family="Georgia,serif" font-size="24">The contribution trail</text><text x="33" y="57" fill="#747b83" font-family="Arial,sans-serif" font-size="10">DAILY ACTIVITY · BLUE INK EDITION</text><text x="33" y="100" fill="#747b83" font-family="Arial,sans-serif" font-size="13">Your contribution squares will populate here.</text></svg>

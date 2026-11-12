@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="142" viewBox="0 0 470 142">
+    <style>
+      .enter { opacity:0; animation: rise .75s cubic-bezier(.2,.8,.2,1) 1.04s forwards; }
+      .fade { opacity:0; animation: fade .8s ease 1.24s forwards; }
+      .shine { animation: sweep 5s ease-in-out 3.04s infinite; }
+      @keyframes rise { from { opacity:0; transform:translateY(18px) } to { opacity:1; transform:translateY(0) } }
+      @keyframes fade { to { opacity:1 } }
+      @keyframes sweep { 0%,65% { transform:translateX(-180px) } 85%,100% { transform:translateX(260px) } }
+      @media (prefers-reduced-motion:reduce) { * { animation:none!important; opacity:1!important; transform:none!important } }
+    </style><rect x="1" y="1" width="468" height="140" rx="22" fill="#fffdf8" stroke="#dedbd3"/>
+    <g class="enter">
+      <circle cx="31" cy="31" r="5" fill="#e6b94f"/>
+      <text x="48" y="36" fill="#747b83" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.5">NEXT.JS · AI</text>
+      <text x="25" y="79" fill="#20252b" font-family="Georgia,serif" font-size="25">MathsClarity AI</text>
+      <text x="25" y="106" fill="#747b83" font-family="Arial,sans-serif" font-size="12">Detecting misconceptions in math work</text>
+      <text x="425" y="112" fill="#e6b94f" font-family="Arial,sans-serif" font-size="21">↗</text>
+    </g></svg>

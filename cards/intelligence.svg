@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="154" viewBox="0 0 310 154">
+    <style>
+      .enter { opacity:0; animation: rise .75s cubic-bezier(.2,.8,.2,1) 0.18s forwards; }
+      .fade { opacity:0; animation: fade .8s ease 0.38s forwards; }
+      .shine { animation: sweep 5s ease-in-out 2.18s infinite; }
+      @keyframes rise { from { opacity:0; transform:translateY(18px) } to { opacity:1; transform:translateY(0) } }
+      @keyframes fade { to { opacity:1 } }
+      @keyframes sweep { 0%,65% { transform:translateX(-180px) } 85%,100% { transform:translateX(260px) } }
+      @media (prefers-reduced-motion:reduce) { * { animation:none!important; opacity:1!important; transform:none!important } }
+    </style><rect x="1" y="1" width="308" height="152" rx="22" fill="#fffdf8" stroke="#dedbd3"/>
+    <g class="enter">
+      <rect x="22" y="22" width="34" height="4" rx="2" fill="#e66a5b"/>
+      <text x="22" y="52" fill="#747b83" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">02 / INTELLIGENCE</text>
+      <text x="22" y="91" fill="#20252b" font-family="Georgia,serif" font-size="28">Make it smarter</text>
+      <text x="22" y="119" fill="#747b83" font-family="Arial,sans-serif" font-size="12">AI that solves real problems</text>
+      <text x="276" y="132" fill="#e66a5b" font-family="Arial,sans-serif" font-size="22">↗</text>
+    </g></svg>

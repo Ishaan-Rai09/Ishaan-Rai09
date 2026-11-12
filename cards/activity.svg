@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230">
+    <style>
+      .enter { opacity:0; animation: rise .75s cubic-bezier(.2,.8,.2,1) 0.35s forwards; }
+      .fade { opacity:0; animation: fade .8s ease 0.55s forwards; }
+      .shine { animation: sweep 5s ease-in-out 2.35s infinite; }
+      @keyframes rise { from { opacity:0; transform:translateY(18px) } to { opacity:1; transform:translateY(0) } }
+      @keyframes fade { to { opacity:1 } }
+      @keyframes sweep { 0%,65% { transform:translateX(-180px) } 85%,100% { transform:translateX(260px) } }
+      @media (prefers-reduced-motion:reduce) { * { animation:none!important; opacity:1!important; transform:none!important } }
+    </style><rect x="1" y="1" width="958" height="228" rx="22" fill="#fffdf8" stroke="#dedbd3"/><text x="34" y="43" fill="#20252b" font-family="Georgia,serif" font-size="27">A little progress, every day.</text><text x="35" y="67" fill="#747b83" font-family="Arial,sans-serif" font-size="11">MONTHLY CONTRIBUTIONS · LAST 0 AVAILABLE MONTHS</text><text x="35" y="145" fill="#747b83" font-family="Arial,sans-serif" font-size="14">Contribution history will appear after the first successful refresh.</text><text x="835" y="104" fill="#3478f6" font-family="Georgia,serif" font-size="31">0</text><text x="835" y="124" fill="#747b83" font-family="Arial,sans-serif" font-size="10">CONTRIBUTIONS</text><text x="835" y="159" fill="#20252b" font-family="Georgia,serif" font-size="25">0</text><text x="835" y="178" fill="#747b83" font-family="Arial,sans-serif" font-size="10">ACTIVE DAYS</text></svg>

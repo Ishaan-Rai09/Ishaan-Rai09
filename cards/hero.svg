@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="210" viewBox="0 0 960 210">
+    <style>
+      .enter { opacity:0; animation: rise .75s cubic-bezier(.2,.8,.2,1) 0s forwards; }
+      .fade { opacity:0; animation: fade .8s ease 0.2s forwards; }
+      .shine { animation: sweep 5s ease-in-out 2s infinite; }
+      @keyframes rise { from { opacity:0; transform:translateY(18px) } to { opacity:1; transform:translateY(0) } }
+      @keyframes fade { to { opacity:1 } }
+      @keyframes sweep { 0%,65% { transform:translateX(-180px) } 85%,100% { transform:translateX(260px) } }
+      @media (prefers-reduced-motion:reduce) { * { animation:none!important; opacity:1!important; transform:none!important } }
+    </style><rect x="1" y="1" width="958" height="208" rx="22" fill="#fffdf8" stroke="#dedbd3"/>
+    <g class="enter">
+      <text x="42" y="52" fill="#747b83" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">HELLO, WORLD — I'M</text>
+      <text x="40" y="126" fill="#20252b" font-family="Georgia,serif" font-size="68" letter-spacing="-2">Ishaan Rai</text>
+      <rect x="42" y="151" width="7" height="7" rx="3.5" fill="#3478f6"/>
+      <text x="60" y="160" fill="#20252b" font-family="Arial,sans-serif" font-size="16">AI/ML Engineer · Full-Stack Developer · Product Builder</text>
+      <text x="42" y="187" fill="#747b83" font-family="Arial,sans-serif" font-size="12">Turning curious ideas into useful, intelligent products.</text>
+    </g>
+    <g transform="translate(760 42)" class="fade">
+      <circle cx="75" cy="62" r="57" fill="#e9efff"/>
+      <circle cx="75" cy="62" r="43" fill="none" stroke="#3478f6" stroke-width="1.5" stroke-dasharray="5 7"/>
+      <path d="M48 67 L68 87 L105 39" fill="none" stroke="#3478f6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="75" y="143" text-anchor="middle" fill="#747b83" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">BUILD / LEARN / SHIP</text>
+    </g></svg>
