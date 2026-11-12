@@ -1,0 +1,36 @@
+name: Refresh profile cards
+
+on:
+  schedule:
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/render_profile.py"
+      - "data/contributions.json"
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Render animated SVG cards
+        run: python scripts/render_profile.py
+      - name: Commit refreshed cards
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add cards data/contributions.json
+            git commit -m "chore: refresh profile cards"
+            git push
+          fi
