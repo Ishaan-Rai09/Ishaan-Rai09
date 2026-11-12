@@ -168,3 +168,5 @@ def main():
     repo("repo-codecubical.svg","Code Cubical","Building and shipping community projects","WEB · PRODUCT",BLUE,3)
     print(f"Rendered SVG cards to {OUT} (STATIC={int(STATIC)})")
 if __name__=="__main__": main()
+
+# Initial render trigger: the scheduled workflow also refreshes this file's output daily.
