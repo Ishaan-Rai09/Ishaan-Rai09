@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img"><style>
+@keyframes rise{from{opacity:0;transform:translateY(22px)}}
+@keyframes pop{from{opacity:0;transform:scale(0)}}
+@keyframes grow{from{transform:scaleY(0)}}
+@keyframes sweep{from{transform:scaleX(0)}}
+@keyframes fade{from{opacity:0}}
+@keyframes swing{0%{opacity:0;transform:translateY(60px) rotate(-6deg)}70%{transform:translateY(-6px) rotate(1deg)}}
+@keyframes nudge{50%{transform:translateX(5px)}}
+@keyframes pulse{50%{opacity:.3}}
+.r{animation:rise .8s cubic-bezier(.2,.8,.2,1) backwards}
+.f{animation:fade .6s ease-out backwards}
+.p{transform-box:fill-box;transform-origin:center;animation:pop .35s ease-out backwards}
+.g{transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.8,.2,1) backwards}
+.s{transform-box:fill-box;transform-origin:left;animation:sweep .7s ease-out backwards}
+.sw{transform-box:fill-box;transform-origin:center;animation:swing .9s cubic-bezier(.2,.8,.2,1) backwards}
+.n{animation:nudge 1.8s ease-in-out infinite}
+.pl{animation:pulse 1.6s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="900" height="250" rx="18" fill="#f6f1e7" stroke="#14110f" stroke-width="1.5"/>
+<g class="f" style="animation-delay:0.10s"><circle class="pl" cx="62" cy="52" r="5" fill="#1f4fff"/>
+<text x="76" y="57" font-family="'EmbSans','Geist',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" letter-spacing="2" fill="#1f4fff">HELLO, I'M</text></g>
+<g class="r" style="animation-delay:0.30s"><text x="56" y="150" font-family="'EmbSerif','Instrument Serif',Georgia,'Times New Roman',serif" font-size="98" fill="#14110f">Ishaan <tspan fill="#1f4fff">Rai</tspan></text></g>
+<rect class="s" style="animation-delay:1.00s" x="58" y="166" width="150" height="4" fill="#1f4fff"/>
+<g class="r" style="animation-delay:0.70s"><text x="58" y="205" font-family="'EmbSans','Geist',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#14110f">AI full-stack developer · B.Tech CSE @ Chitkara University</text>
+<text x="58" y="230" font-family="'EmbSans','Geist',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#6b645a">Freelancing since Jan 2026 · building voice-first, fintech &amp; AI products</text></g>
+<g class="p" style="animation-delay:1.20s"><circle cx="820" cy="60" r="26" fill="#f5b700"/></g>
+<g class="p" style="animation-delay:1.35s"><circle cx="852" cy="92" r="14" fill="#e5393b"/></g>
+<g class="p" style="animation-delay:1.50s"><circle cx="800" cy="104" r="9" fill="#1f4fff"/></g></svg>
