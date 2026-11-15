@@ -5,7 +5,7 @@
 
 *Turning curious ideas into useful, intelligent products.*
 
-[Portfolio](https://glowup-theta-eight.vercel.app/) · [GitHub](https://github.com/Ishaan-Rai09)
+[Portfolio](https://ishaanrai.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/ishaan-rai/) · [Instagram](https://www.instagram.com/_ixhaaan_09/) · [GitHub](https://github.com/Ishaan-Rai09)
 
 <img src="./cards/hero.svg" alt="Ishaan Rai profile hero" width="100%" />
 
@@ -29,12 +29,12 @@
 ## Selected work
 
 <div align="center">
-  <a href="https://github.com/Ishaan-Rai09/NexaNote"><img src="./cards/repo-nexanote.svg" width="49%" alt="NexaNote" /></a>
-  <a href="https://github.com/Ishaan-Rai09/Blind_Assistant"><img src="./cards/repo-blind-assistant.svg" width="49%" alt="Blind Assistant" /></a>
+  <a href="https://github.com/Ishaan-Rai09/Mandi-Relay"><img src="./cards/repo-mandi-relay.svg" width="49%" alt="NexaNote" /></a>
+  <a href="https://github.com/Ishaan-Rai09/Gnani-AI-Challenge"><img src="./cards/repo-callshield.svg" width="49%" alt="Blind Assistant" /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/Ishaan-Rai09/mathsmisconception-AI"><img src="./cards/repo-mathsclarity.svg" width="49%" alt="MathsClarity AI" /></a>
-  <a href="https://github.com/Ishaan-Rai09/Code-Cubical"><img src="./cards/repo-codecubical.svg" width="49%" alt="Code Cubical" /></a>
+  <a href="https://github.com/Ishaan-Rai09/OpenSource-Tools"><img src="./cards/repo-osswap.svg" width="49%" alt="MathsClarity AI" /></a>
+  <a href="https://github.com/Ishaan-Rai09/mathsmisconception-AI"><img src="./cards/repo-mathsclarity.svg" width="49%" alt="Code Cubical" /></a>
 </div>
 
 ---
